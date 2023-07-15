@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Bug solving makes me addicted to code.**
 
-- 🖥️ I am currently looking for a job in React
+- 🖥️ I am currently looking for **a job in React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
