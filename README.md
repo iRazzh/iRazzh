@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **Bug solving makes me addicted to code.**
 
+- 🖥️ I am currently looking for a job in React
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanguy-gerardin-87961710b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanguy-gerardin-87961710b" height="30" width="40" /></a>
