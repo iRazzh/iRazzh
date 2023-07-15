@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **javascript, react**
 
-- 📫 How to reach me **tanguygerardin60@hotmail.com**
-
 - ⚡ Fun fact **Bug solving makes me addicted to code.**
 
 <h3 align="left">Connect with me:</h3>
